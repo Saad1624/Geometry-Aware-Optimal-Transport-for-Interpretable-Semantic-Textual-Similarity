@@ -1,0 +1,7 @@
+Metric,Value,N&K Reference
+Reconstruction MAP,0.3278,"0.851 (paper, dim=10)"
+Reconstruction Mean Rank,50.69,4.02
+HyperLex Euclidean ρ,0.2457,—
+HyperLex Poincaré ρ,0.3677,—
+HyperLex Nickel asymmetric,0.4518,"0.512 (paper, dim=5)"
+Norm vs. depth Spearman,0.6750,—

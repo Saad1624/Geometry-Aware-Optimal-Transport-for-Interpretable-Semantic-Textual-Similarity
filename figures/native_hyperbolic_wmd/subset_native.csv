@@ -1,0 +1,7 @@
+Subset,Method,ρ,n
+Hierarchy-rich,Euclidean (text8),0.6893978938501003,599
+Hierarchy-poor,Euclidean (text8),0.7068821099816965,901
+Hierarchy-rich,Poincaré 25×4d,0.6014946595936617,599
+Hierarchy-poor,Poincaré 25×4d,0.6243292809611863,901
+Hierarchy-rich,Poincaré 50×2d,0.6052872718176623,599
+Hierarchy-poor,Poincaré 50×2d,0.6257574962652088,901

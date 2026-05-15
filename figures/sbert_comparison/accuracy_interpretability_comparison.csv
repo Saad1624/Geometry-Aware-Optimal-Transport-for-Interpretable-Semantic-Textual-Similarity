@@ -1,0 +1,4 @@
+Method,Spearman ρ,Pearson r,Interpretable
+Cosine baseline (GloVe mean),0.7388982020505078,0.7254790996576796,No (single score)
+Euclidean WMD (GloVe + OT),0.7767788081989695,0.7735878259806805,Yes (transport plan)
+SBERT (all-MiniLM-L6-v2),0.8671631197908373,0.8696194552363424,No (single score)
