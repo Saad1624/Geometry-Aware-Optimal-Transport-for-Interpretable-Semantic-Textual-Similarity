@@ -1,0 +1,16 @@
+miniconda3/
+gensim-data/
+nltk_data/
+GloVe/
+backup/
+cooccur.bin
+text8
+text8.zip
+vocab.txt
+Miniconda3-latest-Linux-x86_64.sh
+*.model
+*.bin
+*.vec
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
