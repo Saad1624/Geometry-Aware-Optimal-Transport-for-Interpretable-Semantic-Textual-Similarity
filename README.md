@@ -25,7 +25,7 @@ Performance depends on the **three-way alignment** between geometric space, trai
 ```bash
 conda create -n poincare python=3.11
 conda activate poincare
-pip install gensim POT nltk numpy scipy matplotlib scikit-learn sentence-transformers
+pip install gensim POT nltk datasets numpy scipy matplotlib seaborn sentence-transformers
 ```
 
 ### Poincaré GloVe
