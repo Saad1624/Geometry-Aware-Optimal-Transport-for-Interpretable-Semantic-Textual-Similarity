@@ -19,6 +19,8 @@ Performance depends on the **three-way alignment** between geometric space, trai
 | `native_hyperbolic_wmd.ipynb` | Native Poincaré GloVe WMD on STS-B |
 | `sbert_comparison.ipynb` | SBERT vs WMD — accuracy–interpretability trade-off |
 
+> If GitHub's notebook preview fails (an intermittent issue with notebooks containing many inline figures), PDF exports are available in [`notebooks/exports/`](notebooks/exports/), or you can view the notebooks via [nbviewer](https://nbviewer.org/github/Saad1624/Geometry-Aware-Optimal-Transport-for-Interpretable-Semantic-Textual-Similarity/tree/main/notebooks/).
+
 ## Dependencies
 
 ### Python Environment
